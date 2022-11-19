@@ -1,5 +1,5 @@
 # Sunil Ratha 🚵‍♀️
-**'println("Triyng to make some cool projects")'**
+**`println("Triyng to make some cool projects")`**
 
 I'm a student at the University of Waterloo in Mechatronics Engineering. I have a few projects here, however I will be adding more soon as I aim to work on some new preojects in hardware/embedded, machine learning and webapplications. 
 
