@@ -1,7 +1,7 @@
 # Sunil Ratha 🚵‍♀️
 **`println("Triyng to make some cool projects")`**
 
-I'm a student at the University of Waterloo in Mechatronics Engineering. I have a few projects, however I will be adding more soon. I aim to work on hardware/embedded, machine learning and real time systems projects. 
+I'm a student at the University of Waterloo in Mechatronics Engineering. I am really interested in hardware/embedded desing and programming, machine learning and real time systems. 
 
 ---
 
